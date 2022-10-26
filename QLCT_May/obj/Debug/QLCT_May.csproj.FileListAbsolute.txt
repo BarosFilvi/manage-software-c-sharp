@@ -1,0 +1,101 @@
+C:\Users\admin\source\repos\QLCT_May\QLCT_May\bin\Debug\QLCT_May.exe.config
+C:\Users\admin\source\repos\QLCT_May\QLCT_May\bin\Debug\QLCT_May.exe
+C:\Users\admin\source\repos\QLCT_May\QLCT_May\bin\Debug\QLCT_May.pdb
+C:\Users\admin\source\repos\QLCT_May\QLCT_May\obj\Debug\QLCT_May.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\QLCT_May\QLCT_May\obj\Debug\QLCT_May.frmMain.resources
+C:\Users\admin\source\repos\QLCT_May\QLCT_May\obj\Debug\QLCT_May.Properties.Resources.resources
+C:\Users\admin\source\repos\QLCT_May\QLCT_May\obj\Debug\QLCT_May.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\QLCT_May\QLCT_May\obj\Debug\QLCT_May.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\QLCT_May\QLCT_May\obj\Debug\QLCT_May.exe
+C:\Users\admin\source\repos\QLCT_May\QLCT_May\obj\Debug\QLCT_May.pdb
+C:\Users\admin\Downloads\QLCT_May\QLCT_May\bin\Debug\QLCT_May.exe.config
+C:\Users\admin\Downloads\QLCT_May\QLCT_May\bin\Debug\QLCT_May.exe
+C:\Users\admin\Downloads\QLCT_May\QLCT_May\bin\Debug\QLCT_May.pdb
+C:\Users\admin\Downloads\QLCT_May\QLCT_May\obj\Debug\QLCT_May.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\QLCT_May\QLCT_May\obj\Debug\QLCT_May.frmMain.resources
+C:\Users\admin\Downloads\QLCT_May\QLCT_May\obj\Debug\QLCT_May.Properties.Resources.resources
+C:\Users\admin\Downloads\QLCT_May\QLCT_May\obj\Debug\QLCT_May.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\QLCT_May\QLCT_May\obj\Debug\QLCT_May.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\QLCT_May\QLCT_May\obj\Debug\QLCT_May.exe
+C:\Users\admin\Downloads\QLCT_May\QLCT_May\obj\Debug\QLCT_May.pdb
+C:\Users\admin\Downloads\QLCT_May\QLCT_May\obj\Debug\QLCT_May.frmSanPham.resources
+C:\Users\admin\Downloads\QLCT_May\QLCT_May\obj\Debug\QLCT_May.frmDaiLy.resources
+E:\PERSONALITY\mySTUDY\HK1_nam3\SWTech\QLCT_May\QLCT_May\QLCT_May\bin\Debug\QLCT_May.exe.config
+E:\PERSONALITY\mySTUDY\HK1_nam3\SWTech\QLCT_May\QLCT_May\QLCT_May\bin\Debug\QLCT_May.exe
+E:\PERSONALITY\mySTUDY\HK1_nam3\SWTech\QLCT_May\QLCT_May\QLCT_May\bin\Debug\QLCT_May.pdb
+E:\PERSONALITY\mySTUDY\HK1_nam3\SWTech\QLCT_May\QLCT_May\QLCT_May\obj\Debug\QLCT_May.csproj.AssemblyReference.cache
+E:\PERSONALITY\mySTUDY\HK1_nam3\SWTech\QLCT_May\QLCT_May\QLCT_May\obj\Debug\QLCT_May.csproj.SuggestedBindingRedirects.cache
+E:\PERSONALITY\mySTUDY\HK1_nam3\SWTech\QLCT_May\QLCT_May\QLCT_May\obj\Debug\QLCT_May.frmChiTietHoaDon.resources
+E:\PERSONALITY\mySTUDY\HK1_nam3\SWTech\QLCT_May\QLCT_May\QLCT_May\obj\Debug\QLCT_May.frmDaiLy.resources
+E:\PERSONALITY\mySTUDY\HK1_nam3\SWTech\QLCT_May\QLCT_May\QLCT_May\obj\Debug\QLCT_May.frmHoaDon.resources
+E:\PERSONALITY\mySTUDY\HK1_nam3\SWTech\QLCT_May\QLCT_May\QLCT_May\obj\Debug\QLCT_May.frmMain.resources
+E:\PERSONALITY\mySTUDY\HK1_nam3\SWTech\QLCT_May\QLCT_May\QLCT_May\obj\Debug\QLCT_May.frmSanPham.resources
+E:\PERSONALITY\mySTUDY\HK1_nam3\SWTech\QLCT_May\QLCT_May\QLCT_May\obj\Debug\QLCT_May.frmThanhToan.resources
+E:\PERSONALITY\mySTUDY\HK1_nam3\SWTech\QLCT_May\QLCT_May\QLCT_May\obj\Debug\QLCT_May.Properties.Resources.resources
+E:\PERSONALITY\mySTUDY\HK1_nam3\SWTech\QLCT_May\QLCT_May\QLCT_May\obj\Debug\QLCT_May.csproj.GenerateResource.cache
+E:\PERSONALITY\mySTUDY\HK1_nam3\SWTech\QLCT_May\QLCT_May\QLCT_May\obj\Debug\QLCT_May.csproj.CoreCompileInputs.cache
+E:\PERSONALITY\mySTUDY\HK1_nam3\SWTech\QLCT_May\QLCT_May\QLCT_May\obj\Debug\QLCT_May.exe
+E:\PERSONALITY\mySTUDY\HK1_nam3\SWTech\QLCT_May\QLCT_May\QLCT_May\obj\Debug\QLCT_May.pdb
+E:\QLCT_May\QLCT_May\bin\Debug\QLCT_May.exe.config
+E:\QLCT_May\QLCT_May\bin\Debug\QLCT_May.exe
+E:\QLCT_May\QLCT_May\bin\Debug\QLCT_May.pdb
+E:\QLCT_May\QLCT_May\obj\Debug\QLCT_May.csproj.AssemblyReference.cache
+E:\QLCT_May\QLCT_May\obj\Debug\QLCT_May.frmChiTietHoaDon.resources
+E:\QLCT_May\QLCT_May\obj\Debug\QLCT_May.frmDaiLy.resources
+E:\QLCT_May\QLCT_May\obj\Debug\QLCT_May.frmHoaDon.resources
+E:\QLCT_May\QLCT_May\obj\Debug\QLCT_May.frmMain.resources
+E:\QLCT_May\QLCT_May\obj\Debug\QLCT_May.frmSanPham.resources
+E:\QLCT_May\QLCT_May\obj\Debug\QLCT_May.frmThanhToan.resources
+E:\QLCT_May\QLCT_May\obj\Debug\QLCT_May.Properties.Resources.resources
+E:\QLCT_May\QLCT_May\obj\Debug\QLCT_May.csproj.GenerateResource.cache
+E:\QLCT_May\QLCT_May\obj\Debug\QLCT_May.csproj.CoreCompileInputs.cache
+E:\QLCT_May\QLCT_May\obj\Debug\QLCT_May.exe
+E:\QLCT_May\QLCT_May\obj\Debug\QLCT_May.pdb
+C:\Users\asus\Desktop\QLCT_May\QLCT_May\bin\Debug\QLCT_May.exe.config
+C:\Users\asus\Desktop\QLCT_May\QLCT_May\bin\Debug\QLCT_May.exe
+C:\Users\asus\Desktop\QLCT_May\QLCT_May\bin\Debug\QLCT_May.pdb
+C:\Users\asus\Desktop\QLCT_May\QLCT_May\obj\Debug\QLCT_May.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\QLCT_May\QLCT_May\obj\Debug\QLCT_May.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\Desktop\QLCT_May\QLCT_May\obj\Debug\QLCT_May.frmChiTietHoaDon.resources
+C:\Users\asus\Desktop\QLCT_May\QLCT_May\obj\Debug\QLCT_May.frmDaiLy.resources
+C:\Users\asus\Desktop\QLCT_May\QLCT_May\obj\Debug\QLCT_May.frmHoaDon.resources
+C:\Users\asus\Desktop\QLCT_May\QLCT_May\obj\Debug\QLCT_May.frmMain.resources
+C:\Users\asus\Desktop\QLCT_May\QLCT_May\obj\Debug\QLCT_May.frmSanPham.resources
+C:\Users\asus\Desktop\QLCT_May\QLCT_May\obj\Debug\QLCT_May.frmThanhToan.resources
+C:\Users\asus\Desktop\QLCT_May\QLCT_May\obj\Debug\QLCT_May.Properties.Resources.resources
+C:\Users\asus\Desktop\QLCT_May\QLCT_May\obj\Debug\QLCT_May.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\QLCT_May\QLCT_May\obj\Debug\QLCT_May.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\QLCT_May\QLCT_May\obj\Debug\QLCT_May.exe
+C:\Users\asus\Desktop\QLCT_May\QLCT_May\obj\Debug\QLCT_May.pdb
+C:\Users\Admin\Downloads\QLCT_May (1)\QLCT_May\bin\Debug\QLCT_May.exe.config
+C:\Users\Admin\Downloads\QLCT_May (1)\QLCT_May\bin\Debug\QLCT_May.exe
+C:\Users\Admin\Downloads\QLCT_May (1)\QLCT_May\bin\Debug\QLCT_May.pdb
+C:\Users\Admin\Downloads\QLCT_May (1)\QLCT_May\obj\Debug\QLCT_May.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\QLCT_May (1)\QLCT_May\obj\Debug\QLCT_May.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\QLCT_May (1)\QLCT_May\obj\Debug\QLCT_May.frmChiTietHoaDon.resources
+C:\Users\Admin\Downloads\QLCT_May (1)\QLCT_May\obj\Debug\QLCT_May.frmDaiLy.resources
+C:\Users\Admin\Downloads\QLCT_May (1)\QLCT_May\obj\Debug\QLCT_May.frmHoaDon.resources
+C:\Users\Admin\Downloads\QLCT_May (1)\QLCT_May\obj\Debug\QLCT_May.frmMain.resources
+C:\Users\Admin\Downloads\QLCT_May (1)\QLCT_May\obj\Debug\QLCT_May.frmSanPham.resources
+C:\Users\Admin\Downloads\QLCT_May (1)\QLCT_May\obj\Debug\QLCT_May.frmThanhToan.resources
+C:\Users\Admin\Downloads\QLCT_May (1)\QLCT_May\obj\Debug\QLCT_May.Properties.Resources.resources
+C:\Users\Admin\Downloads\QLCT_May (1)\QLCT_May\obj\Debug\QLCT_May.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\QLCT_May (1)\QLCT_May\obj\Debug\QLCT_May.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QLCT_May (1)\QLCT_May\obj\Debug\QLCT_May.exe
+C:\Users\Admin\Downloads\QLCT_May (1)\QLCT_May\obj\Debug\QLCT_May.pdb
+E:\PERSONALITY\mySTUDY\HK1_nam3\SWTech\QLCT_May\QLCT_May\bin\Debug\QLCT_May.exe.config
+E:\PERSONALITY\mySTUDY\HK1_nam3\SWTech\QLCT_May\QLCT_May\bin\Debug\QLCT_May.exe
+E:\PERSONALITY\mySTUDY\HK1_nam3\SWTech\QLCT_May\QLCT_May\bin\Debug\QLCT_May.pdb
+E:\PERSONALITY\mySTUDY\HK1_nam3\SWTech\QLCT_May\QLCT_May\obj\Debug\QLCT_May.csproj.AssemblyReference.cache
+E:\PERSONALITY\mySTUDY\HK1_nam3\SWTech\QLCT_May\QLCT_May\obj\Debug\QLCT_May.csproj.SuggestedBindingRedirects.cache
+E:\PERSONALITY\mySTUDY\HK1_nam3\SWTech\QLCT_May\QLCT_May\obj\Debug\QLCT_May.frmChiTietHoaDon.resources
+E:\PERSONALITY\mySTUDY\HK1_nam3\SWTech\QLCT_May\QLCT_May\obj\Debug\QLCT_May.frmDaiLy.resources
+E:\PERSONALITY\mySTUDY\HK1_nam3\SWTech\QLCT_May\QLCT_May\obj\Debug\QLCT_May.frmHoaDon.resources
+E:\PERSONALITY\mySTUDY\HK1_nam3\SWTech\QLCT_May\QLCT_May\obj\Debug\QLCT_May.frmMain.resources
+E:\PERSONALITY\mySTUDY\HK1_nam3\SWTech\QLCT_May\QLCT_May\obj\Debug\QLCT_May.frmSanPham.resources
+E:\PERSONALITY\mySTUDY\HK1_nam3\SWTech\QLCT_May\QLCT_May\obj\Debug\QLCT_May.frmThanhToan.resources
+E:\PERSONALITY\mySTUDY\HK1_nam3\SWTech\QLCT_May\QLCT_May\obj\Debug\QLCT_May.Properties.Resources.resources
+E:\PERSONALITY\mySTUDY\HK1_nam3\SWTech\QLCT_May\QLCT_May\obj\Debug\QLCT_May.csproj.GenerateResource.cache
+E:\PERSONALITY\mySTUDY\HK1_nam3\SWTech\QLCT_May\QLCT_May\obj\Debug\QLCT_May.csproj.CoreCompileInputs.cache
+E:\PERSONALITY\mySTUDY\HK1_nam3\SWTech\QLCT_May\QLCT_May\obj\Debug\QLCT_May.exe
+E:\PERSONALITY\mySTUDY\HK1_nam3\SWTech\QLCT_May\QLCT_May\obj\Debug\QLCT_May.pdb

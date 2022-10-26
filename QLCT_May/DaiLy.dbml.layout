@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.75" name="DaiLy">
+  <DataContextMoniker Name="/DaiLyDataContext" />
+  <nestedChildShapes>
+    <classShape Id="133916b7-26a2-4877-967c-83fab3262ac2" absoluteBounds="2.25, 6.25, 2, 1.3862939453125">
+      <DataClassMoniker Name="/DaiLyDataContext/ChiTietHoaDon" />
+      <nestedChildShapes>
+        <elementListCompartment Id="97336601-3825-4c5c-ae79-354570b4b349" absoluteBounds="2.2649999999999997, 6.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cbae4573-83d4-4241-b69f-ff8e2a10c929" absoluteBounds="1.625, 2.625, 2, 1.9631982421875">
+      <DataClassMoniker Name="/DaiLyDataContext/DaiLy" />
+      <nestedChildShapes>
+        <elementListCompartment Id="178feecb-c59f-421d-bbcc-ef2474991022" absoluteBounds="1.6400000000000001, 3.085, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="28ebee80-1d1f-4006-aeec-5bbfdfe51354" absoluteBounds="8.375, 7.125, 2, 1.3862939453125">
+      <DataClassMoniker Name="/DaiLyDataContext/HoaDon" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1d013e11-3e16-4a5a-8c14-a12e5616cafb" absoluteBounds="8.39, 7.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(8.375 : 7.38064697265625); (4.25 : 7.38064697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DaiLyDataContext/HoaDon/HoaDon_ChiTietHoaDon" />
+      <nodes>
+        <classShapeMoniker Id="28ebee80-1d1f-4006-aeec-5bbfdfe51354" />
+        <classShapeMoniker Id="133916b7-26a2-4877-967c-83fab3262ac2" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.90625 : 4.5881982421875); (1.90625 : 8.1050439453125); (8.375 : 8.1050439453125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DaiLyDataContext/DaiLy/DaiLy_HoaDon" />
+      <nodes>
+        <classShapeMoniker Id="cbae4573-83d4-4241-b69f-ff8e2a10c929" />
+        <classShapeMoniker Id="28ebee80-1d1f-4006-aeec-5bbfdfe51354" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="194bade6-c54c-4232-a224-00f6b5ce6623" absoluteBounds="5.625, 4.875, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/DaiLyDataContext/SanPham" />
+      <nestedChildShapes>
+        <elementListCompartment Id="afc26e3b-3afe-42c9-9598-9238aadbd28d" absoluteBounds="5.6400000000000006, 5.3350000000000009, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.625 : 6.64024983723958); (4.25 : 6.64024983723958)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DaiLyDataContext/SanPham/SanPham_ChiTietHoaDon" />
+      <nodes>
+        <classShapeMoniker Id="194bade6-c54c-4232-a224-00f6b5ce6623" />
+        <classShapeMoniker Id="133916b7-26a2-4877-967c-83fab3262ac2" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="d9aaddab-5b2f-4a88-be37-45d06fc92b3b" absoluteBounds="7.5, 2.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/DaiLyDataContext/ThanhToan" />
+      <nestedChildShapes>
+        <elementListCompartment Id="51e59427-df4d-466b-90c4-ff1c4761a1e8" absoluteBounds="7.515, 3.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.625 : 3.28125); (7.5 : 3.28125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DaiLyDataContext/DaiLy/DaiLy_ThanhToan" />
+      <nodes>
+        <classShapeMoniker Id="cbae4573-83d4-4241-b69f-ff8e2a10c929" />
+        <classShapeMoniker Id="d9aaddab-5b2f-4a88-be37-45d06fc92b3b" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

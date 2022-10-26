@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QLCH" Class="DaiLyDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=BAROS-NEVADEPRE\SQLEXPRESS;Initial Catalog=QLCH;Integrated Security=True" SettingsObjectName="QLCT_May.Properties.Settings" SettingsPropertyName="QLCHConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.ChiTietHoaDon" Member="ChiTietHoaDons">
+    <Type Name="ChiTietHoaDon">
+      <Column Name="SoLuong" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SoHoaDon" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MaSanPham" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Association Name="HoaDon_ChiTietHoaDon" Member="HoaDon" ThisKey="SoHoaDon" OtherKey="SoHoaDon" Type="HoaDon" IsForeignKey="true" />
+      <Association Name="SanPham_ChiTietHoaDon" Member="SanPham" ThisKey="MaSanPham" OtherKey="MaSanPham" Type="SanPham" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.DaiLy" Member="DaiLies">
+    <Type Name="DaiLy">
+      <Column Name="MaDaiLy" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenChuDaiLy" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="DiaChi" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="SoDienThoai" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Column Name="HinhThucThanhToan" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Column Name="NoDauKy" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="DaiLy_HoaDon" Member="HoaDons" ThisKey="MaDaiLy" OtherKey="MaDaiLy" Type="HoaDon" />
+      <Association Name="DaiLy_ThanhToan" Member="ThanhToans" ThisKey="MaDaiLy" OtherKey="MaDaiLy" Type="ThanhToan" />
+    </Type>
+  </Table>
+  <Table Name="dbo.HoaDon" Member="HoaDons">
+    <Type Name="HoaDon">
+      <Column Name="SoHoaDon" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="NgayLapHoaDon" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="MaDaiLy" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="HoaDon_ChiTietHoaDon" Member="ChiTietHoaDons" ThisKey="SoHoaDon" OtherKey="SoHoaDon" Type="ChiTietHoaDon" />
+      <Association Name="DaiLy_HoaDon" Member="DaiLy" ThisKey="MaDaiLy" OtherKey="MaDaiLy" Type="DaiLy" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.SanPham" Member="SanPhams">
+    <Type Name="SanPham">
+      <Column Name="MaSanPham" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenSanPham" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="KichThuoc" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DonGiaTraCham" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DonGiaTraNgay" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DonGiaTraGop" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="GhiChu" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Association Name="SanPham_ChiTietHoaDon" Member="ChiTietHoaDons" ThisKey="MaSanPham" OtherKey="MaSanPham" Type="ChiTietHoaDon" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ThanhToan" Member="ThanhToans">
+    <Type Name="ThanhToan">
+      <Column Name="SoPhieuThu" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="NgayLapPhieu" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="SoTien" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MaDaiLy" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="DaiLy_ThanhToan" Member="DaiLy" ThisKey="MaDaiLy" OtherKey="MaDaiLy" Type="DaiLy" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>
